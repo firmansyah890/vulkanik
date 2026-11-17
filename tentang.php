@@ -45,7 +45,7 @@
                         <strong>Firmansyah Maylano Rahmawan</strong><br><span style="color: var(--text-muted); font-size: 0.85rem;">124250025</span>
                     </li>
                     <li style="background: #faf9f5; border: 1px solid var(--border-light); padding: 12px 16px; border-radius: 12px;">
-                        <strong>4</strong><br><span style="color: var(--text-muted); font-size: 0.85rem;">12425</span>
+                        <strong>Dea Natasya</strong><br><span style="color: var(--text-muted); font-size: 0.85rem;">124250019</span>
                     </li>
                     <li style="background: #faf9f5; border: 1px solid var(--border-light); padding: 12px 16px; border-radius: 12px;">
                         <strong>5</strong><br><span style="color: var(--text-muted); font-size: 0.85rem;">12425</span>
